@@ -24,5 +24,7 @@ Este script instala e configura automaticamente o [Uptime Kuma](https://github.c
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/uptime-kuma-podman.git
+   git clone https://github.com/pagcoinbr/uptime-kuma-podman.git
    cd uptime-kuma-podman
+   chmod +x uptimekuma_auto.sh
+   ./uptimekuma_auto.sh
